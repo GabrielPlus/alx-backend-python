@@ -26,7 +26,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [x] 0. The basics of async
 * [x] 1. Let's execute multiple coroutines at the same time with async
 * [x] 2. Measure the runtime
-* [x] 3. Tasks
+* [x] 3. Taskss
 * [x] 4. Tasks
 
 ## Software engineer
